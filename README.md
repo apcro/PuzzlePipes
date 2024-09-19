@@ -2,14 +2,6 @@
 <img src="logo.webp" align="left" width="200" hspace="10" vspace="10">
 Rearrange pipes to create a clear route to the flag - but make sure you don't accidentally fall down the drain!
 
-<div style="display:flex;" >
-<a href="https://play.google.com/store/apps/details?id=com.alienpants.puzzlepipes">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>
-</div>
-
 <br />
 <br />
 <br />
